@@ -64,7 +64,6 @@ Projede farklı regresyon modelleri denenmiştir. Örnek olarak:
     * Random Forest Regressor
 
     * Decision Tree Regressor
-    veya kullandığın diğer modeller
 
 5. Değerlendirme
 
