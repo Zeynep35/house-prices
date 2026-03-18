@@ -23,18 +23,12 @@ Bu veri seti, ev özelliklerine göre fiyat tahmini yapılan klasik bir regresyo
 
 ```bash
 HOUSE PRICES/
-│
-├── app/
-├── data/
-├── notebooks/
-├── src/
-├── venv/
+├── .gitignore
 ├── data_description.txt
+├── LICENSE
 ├── main.py
 ├── README.md
-├── sample_submission.csv
-├── test.csv
-└── train.csv
+├── requirement.txt
 
 1. Veri Yükleme ve İnceleme
     * Veri setleri okundu
@@ -100,7 +94,7 @@ Kurulum
 
 Projeyi kendi bilgisayarında çalıştırmak için:
 
-git clone https://github.com/kullanici_adin/house-prices-project.git
+git clone https://github.com/Zeynep35/house-prices-project.git
 cd house-prices-project
 pip install -r requirements.txt
 
@@ -165,6 +159,6 @@ Not
 Bu çalışma, profesyonel üretim ortamı için değil; öğrenme, deneme ve portföy geliştirme amacıyla hazırlanmıştır.
 Buna rağmen veri analizi, preprocessing, feature engineering ve modelleme adımlarını bir arada göstermesi açısından faydalı bir başlangıç projesidir.
 
-**Dataset yüklenmedi. Denemek isteyenler Kaggle'dan yükleyebilir. 
+Dataset yüklenmedi. Denemek isteyenler Kaggle'dan yükleyebilir. 
 Dataset: House Prices - Advanced Regression Techniques (Kaggle)
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
