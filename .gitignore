@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.env
+
+# Data files (büyük veri setleri için)
+data/
+*.csv
+
+# Model files (ileride eklersen)
+*.pkl
+*.joblib
+
+# PyCharm
+.idea/
+
+# Coverage / test
+.coverage
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
